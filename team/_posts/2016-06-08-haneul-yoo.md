@@ -5,7 +5,7 @@ position: Graduate student
 handle: hy
 nickname: Haneul
 email: 
-twitter: 
+twitter: whoisyoo
 github: 
 scholar: 
 image: /assets/images/team/haneul-yoo.png
