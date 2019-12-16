@@ -4,9 +4,9 @@ title: "Haneul Yoo"
 position: Graduate student
 handle: hy
 nickname: Haneul
-email: 
+email: haneul@uchicago.edu
 twitter: whoisyoo
-github: 
+github: haneulyoo
 scholar: 
 image: /assets/images/team/haneul-yoo.png
 alum: false
